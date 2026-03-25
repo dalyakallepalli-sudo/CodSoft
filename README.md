@@ -1,4 +1,4 @@
- CODSOFT Internship Tasks
+## CODSOFT Internship Tasks
 
 This repository contains the tasks I completed during my CODSOFT internship.
 
