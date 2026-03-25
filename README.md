@@ -1,29 +1,32 @@
-# 🚀 CODSOFT Internship Tasks
+ CODSOFT Internship Tasks
 
-This repository contains all the tasks completed as part of the **CODSOFT Internship Program**.
+This repository contains the tasks I completed during my CODSOFT internship.
+
+I’ll be adding each task in a separate folder with its code and explanation.
 
 ---
 
-## 📌 Tasks
+Tasks
 
-### 🔹 Task 1: NLP Chatbot
+ Task 1 – Chatbot
 
 * Built a simple chatbot using Python and NLTK
-* Uses NLP techniques like tokenization and stopword removal
-* Responds based on keyword matching
+* It takes user input, processes the text, and responds based on keywords
+* Learned basic NLP concepts like tokenization and stopword removal
 
-📂 Folder: `Task-1-Chatbot
+Folder: `Task-1-Chatbot`
+
 
 ---
 
-## 🛠️ Technologies Used
+ Tools & Technologies
 
 * Python
 * NLTK
-* Basic NLP techniques
 
 ---
 
-## 👩‍💻 Author
+About Me
 
 Dalya Kallepalli
+B.Tech – Artificial Intelligence & Data Science
