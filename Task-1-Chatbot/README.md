@@ -1,78 +1,58 @@
- 🤖 NLP Chatbot using Python & NLTK
+ ## Simple NLP Chatbot
 
- 📌 Project Overview
+This is a basic chatbot I built using Python and NLTK as part of my internship task.
 
-This project is a simple **AI chatbot** built using **Natural Language Processing (NLP)** techniques with the NLTK library.
-It processes user input, extracts meaningful words, and responds based on a predefined knowledge base.
-
----
-
- 🚀 Features
-
-* Tokenization of user input
-* Stopword removal
-* Keyword-based response system
-* Simple and interactive command-line interface
+The idea was to understand how chatbots work using simple NLP techniques instead of hardcoding only if-else conditions.
 
 ---
 
- 🛠️ Technologies Used
+What it does
 
-* Python
-* NLTK (Natural Language Toolkit)
+* Takes user input from the console
+* Breaks the sentence into words (tokenization)
+* Removes common words (like "is", "the", etc.)
+* Checks for keywords and gives a response
 
 ---
 
- ⚙️ Installation & Setup
+ How to run
 
-1. Clone the repository:
+1. Install requirements:
 
-```bash
-git clone https://github.com/your-username/nlp-chatbot.git
-cd nlp-chatbot
+```
+pip install nltk
 ```
 
-2. Install dependencies:
+2. Run the file:
 
-```bash
-pip install -r requirements.txt
 ```
-
-3. Run the chatbot:
-
-```bash
 python chatbot.py
 ```
 
 ---
 
- 💡 How It Works
+ Example
 
-* User input is converted to lowercase
-* Tokenized into words
-* Stopwords and punctuation are removed
-* Keywords are matched with a predefined dictionary
-* The chatbot returns the most relevant response
+You: hi
+Bot: Hello! What can I do for you?
 
----
- 📷 Example
-
-```
-You: Hello
-Bot: Hi there! How can I help you?
-
-You: What is AI?
+You: what is ai
 Bot: AI stands for Artificial Intelligence.
-```
 
 ---
- 📈 Future Improvements
 
-* Add GUI using Tkinter
-* Integrate with web apps (Flask/Django)
-* Use machine learning models for better responses
+ What I learned
+
+While doing this task, I understood:
+
+* Basic NLP preprocessing
+* How chatbots identify intent using keywords
+* How to structure a simple Python project
 
 ---
-👩‍💻 Author
 
-Dalya Kallepalli
+ Future improvements
+
+* Add more responses
+* Make it work with a GUI
+* Improve accuracy using better matching techniques
