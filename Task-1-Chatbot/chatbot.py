@@ -1,7 +1,8 @@
 import nltk
 import string
 from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
+from nltk.tokenize import wordpunct_tokenize
+tokens = wordpunct_tokenize(text)
 
 # Download datasets (only first time)
 nltk.download('punkt')
