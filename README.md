@@ -1,32 +1,46 @@
-## CODSOFT Internship Tasks
+# CodSoft AI Internship Tasks
 
-This repository contains the tasks I completed during my CODSOFT internship.
-
-I’ll be adding each task in a separate folder with its code and explanation.
+This repository contains the tasks I completed during my **CodSoft Artificial Intelligence Internship**.
+Each task is organized in a separate folder with its code and explanation.
 
 ---
 
-Tasks
+## Tasks
 
- Task 1 – Chatbot
+### Task 1 – Chatbot
 
-* Built a simple chatbot using Python and NLTK
-* It takes user input, processes the text, and responds based on keywords
-* Learned basic NLP concepts like tokenization and stopword removal
+* Built a simple chatbot using **Python and NLTK**
+* Processes user input and responds based on keywords
+* Learned basic NLP concepts like:
+
+  * Tokenization
+  * Stopword removal
 
 Folder: `Task-1-Chatbot`
 
+---
+
+### Task 2 – Tic Tac Toe AI
+
+* Developed an AI-based Tic Tac Toe game using **Minimax Algorithm**
+* Optimized using **Alpha-Beta Pruning**
+* AI plays optimally and never loses
+* Implemented command-line interaction for gameplay
+
+ Folder: `Task-2-Tic-Tac-Toe-AI`
 
 ---
 
- Tools & Technologies
+## Tools & Technologies
 
 * Python
 * NLTK
+* Minimax Algorithm
+* Alpha-Beta Pruning
 
 ---
 
-About Me
+##  About Me
 
-Dalya Kallepalli
+**Dalya Kallepalli**
 B.Tech – Artificial Intelligence & Data Science
